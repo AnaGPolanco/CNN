@@ -1,0 +1,171 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CNN</title>
+</head>
+<body>
+    <header class="header">
+        <section class="barOne">
+        <nav class="navbarOne">
+            <section class="subnav">
+            <i class="fa fa-carret-down"></i>
+            </section>
+            <ul>
+                <img src="image/cnn.png" width="100px" alt="">
+                
+                <li><a href="#">US </a></li>
+                <li><a href="#">World</a></li>
+                <li><a href="#">Politics</a></li>
+                <li><a href="#">Business</a></li>
+                <li><a href="#">More</a></li>
+                     
+                <li><a href="#">Audio </a></li>
+                <li><a href="#">Live TV</a></li>
+                <form action="" class="search-bar">
+                
+                <button type="submit"><img src="image/ectorial.jpg" width="30px" alt=""></button>
+                <a href="#" class="btnOne">
+                <h3 class="logIn">Log in</h3>
+                </a>
+                </form>
+                 
+            </ul>  
+        </nav> 
+        </section>
+    
+
+        <section class="barTwo">
+        <nav class="navbarTwo">
+            <ul>
+                <li><a href="#" >trending: Oscar </a></li>
+                <li><a href="#">Ticketmaster</a></li>
+                <li><a href="#">Google sued</a></li>
+                <li><a href="#" >Mass chooting</a></li>
+                <li><a href="#" >DOomsday</a></li>
+                <li><a href="#">New Oreo Flavor</a></li>
+                <li><a href="#" >Podcast</a></li>
+            </ul>    
+        </nav> 
+        </section>
+    </header>
+
+    <main>
+        <section>
+            <section class="newsOne">  
+
+                <section class="txt">
+                    <h1>FBI reviewa m dolor sit amet<br> oluptatum dolorem</h1>
+                    <a href="#">
+                        <img src="image/img1.jpg" width="200px" alt="">
+                    </a>
+
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                        Id repudiandae  tempore, voluptatum dolorem, mollitia veniam 
+                        esse ex possimus deseruntdoloribus?
+                    </p>
+                    
+                </section>
+                <section class="moreNews">
+                    <ul>
+                       <li><a href="#" >Lorem ipsum dolor sit amet, consectetur adipisicing elit.  </a></li>
+                       <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </a></li>
+                       <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </a></li>
+                       <li><a href="#" >Lorem ipsum dolor sit amet, consectetur adipisicing elit. </a></li>
+                   </ul> 
+
+            </section>
+
+
+            <section class="newsTwo">
+
+                <section class="txt">
+                    <h1>FBI reviewa m dolor sit amet<br> oluptatum dolorem</h1>
+                    <a href="#">
+                            <img src="image/img2.jpg" width="200px" alt="">
+                     </a>
+    
+                     <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                            Id repudiandae  tempore, voluptatum dolorem, mollitia veniam 
+                            esse ex possimus deseruntdoloribus?
+                     </p>
+                        
+                 </section>
+                 <section class="moreNews">
+                        <ul>
+                           <li><a href="#" >Lorem ipsum dolor sit amet, consectetur adipisicing elit.  </a></li>
+                           <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </a></li>
+                           <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </a></li>
+                           <li><a href="#" >Lorem ipsum dolor sit amet, consectetur adipisicing elit. </a></li>
+                       </ul> 
+    
+            </section>
+
+
+            <section class="newsThree">
+
+                <section class="txt">
+                    <h1>FBI reviewa m dolor sit amet<br> oluptatum dolorem</h1>
+                    <a href="#">
+                        <img src="image/img3.jpg" width="200px" alt="">
+                    </a>
+
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                        Id repudiandae  tempore, voluptatum dolorem, mollitia veniam 
+                        esse ex possimus deseruntdoloribus?
+                    </p>
+                    
+                </section>
+                <section class="moreNews">
+                    <ul>
+                       <li><a href="#" >Lorem ipsum dolor sit amet, consectetur adipisicing elit.  </a></li>
+                       <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </a></li>
+                       <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </a></li>
+                       <li><a href="#" >Lorem ipsum dolor sit amet, consectetur adipisicing elit. </a></li>
+                   </ul> 
+
+                </section>
+
+
+
+                <section class="newsFour">
+
+                    <section class="txt">
+                        <h1>FBI reviewa m dolor sit amet<br> oluptatum dolorem</h1>
+                        <a href="#">
+                            <img src="image/img4.jpg" width="200px" alt="">
+                        </a>
+    
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                            Id repudiandae  tempore, voluptatum dolorem, mollitia veniam 
+                            esse ex possimus deseruntdoloribus?
+                        </p>
+                        
+                    </section>
+                    <section class="moreNews">
+                        <ul>
+                           <li><a href="#" >Lorem ipsum dolor sit amet, consectetur adipisicing elit.  </a></li>
+                           <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </a></li>
+                           <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </a></li>
+                           <li><a href="#" >Lorem ipsum dolor sit amet, consectetur adipisicing elit. </a></li>
+                       </ul> 
+    
+                    </section>
+            </section>
+             
+        </section>
+
+
+    </main>
+    
+
+</body>
+</html>
